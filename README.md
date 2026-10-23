@@ -1,4 +1,3 @@
-```html
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:142D4E,100:2563EB&height=200&section=header&text=Archit%20Sovale&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=professionally%20overcomplicating%20simple%20things&descAlignY=60&descSize=16" width="100%" />
 
@@ -46,10 +45,9 @@ mindset     overthink the code, not the problem
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=LonaMisa1982&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" height="150" alt="GitHub stats" />
   <br/><br/>
   <i>if it compiles, we ball. 🫡</i>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:142D4E,100:0D1117&height=100&section=footer" width="100%" />
 </div>
-```
+
