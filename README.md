@@ -23,12 +23,12 @@
 
 ---
 
-### `whoami`
+### `WHO AM I`
 
 ```text
 IIIT Allahabad · Information Technology
 SDE Intern @ Walmart Global Tech
-interested in software, systems & AI/ML
+interested in software, devops & AI/ML
 ```
 
 ### `the toolkit`
@@ -47,8 +47,6 @@ interested in software, systems & AI/ML
 
 <div align="center">
 
-  <h3>if it compiles, we ball.</h3>
+  <h3>If it compiles, we ball.</h3>
 
-  <sub>currently debugging something that worked five minutes ago.</sub>
-
-</di
+</div>
