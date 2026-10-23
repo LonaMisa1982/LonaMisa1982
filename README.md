@@ -1,53 +1,54 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:142D4E,100:2563EB&height=200&section=header&text=Archit%20Sovale&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=professionally%20overcomplicating%20simple%20things&descAlignY=60&descSize=16" width="100%" />
+
+  <h1>Archit Sovale</h1>
+
+  <p><i>professionally overcomplicating simple things.</i></p>
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=if+it+compiles%2C+we+ball.;C%2B%2B+%7C+DSA+%7C+Full+Stack;debugging+is+character+development." alt="Typing introduction" />
-
-  <br/><br/>
-
   <a href="https://www.linkedin.com/in/archit-sovale-091858280/">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-181818?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/Archies1982/">
-    <img src="https://img.shields.io/badge/LeetCode-1753-161B22?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/leetcode-181818?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   &nbsp;
   <a href="mailto:architsovale@gmail.com">
-    <img src="https://img.shields.io/badge/Email-say%20hello-161B22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/email-181818?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
 </div>
 
 ---
 
-### `~/ currently running`
+### `whoami`
 
 ```text
-education   IIIT Allahabad · Information Technology
-previously  SDE Intern @ Walmart Global Tech
-interests   software engineering, DSA, AI/ML
-mindset     overthink the code, not the problem
+IIIT Allahabad · Information Technology
+SDE Intern @ Walmart Global Tech
+interested in software, systems & AI/ML
 ```
 
-### `~/ tech stack`
+### `the toolkit`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,express,flask,tailwind,mongodb,mysql,postgres,firebase,git,github,docker,kubernetes&theme=dark&perline=8" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react&theme=dark&perline=5" height="85" alt="C++, Python, JavaScript, TypeScript, React"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,tailwind,mongodb&theme=dark&perline=5" height="85" alt="Node.js, Express, Flask, Tailwind CSS, MongoDB"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,git,github&theme=dark&perline=5" height="85" alt="MySQL, PostgreSQL, Firebase, Git, GitHub"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure&theme=dark&perline=5" height="85" alt="Docker, Kubernetes, Azure"/>
 </div>
 
-### `~/ side quests`
-
-- 🧩 Solving problems that probably didn't need to be that complicated
-- ⚙️ Figuring out what happens under the hood
-- 🤖 Making AI do things besides confidently hallucinating
+---
 
 <div align="center">
-  <br/>
-  <br/><br/>
-  <i>if it compiles, we ball. 🫡</i>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:142D4E,100:0D1117&height=100&section=footer" width="100%" />
-</div>
 
+  <h3>if it compiles, we ball.</h3>
+
+  <sub>currently debugging something that worked five minutes ago.</sub>
+
+</di
